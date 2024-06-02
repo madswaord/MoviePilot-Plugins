@@ -3,7 +3,7 @@ from typing import List, Tuple, Dict, Any
 from app.plugins import _PluginBase
 
 
-class AutoLitterSister(_PluginBase):
+class autogear(_PluginBase):
     plugin_name = "自动档"
     # 插件描述
     plugin_desc = ""
